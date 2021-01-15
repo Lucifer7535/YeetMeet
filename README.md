@@ -86,7 +86,7 @@ See [How to edit config.py](https://github.com/1337w0rm/YeetMeet/issues/3#issuec
 **Deployment**
 
 Video Tutorial For this bot-
-YouTube: https://youtube.com/embed/<ImBoC4g7aDE>
+YouTube: https://youtube.com/embed/ImBoC4g7aDE
 
 1. Download and Install Google Chrome and Chromedriver.
  2. `git clone https://github.com/1337w0rm/YeetMeet`
