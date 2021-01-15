@@ -85,7 +85,8 @@ See [How to edit config.py](https://github.com/1337w0rm/YeetMeet/issues/3#issuec
  
 **Deployment**
 
-**Video Tutorial**
+Video Tutorial
+
 [![video tutorial](https://img.youtube.com/vi/ImBoC4g7aDE/0.jpg)](https://youtu.be/ImBoC4g7aDE)
 
 1. Download and Install Google Chrome and Chromedriver.
