@@ -84,6 +84,10 @@ See [How to edit config.py](https://github.com/1337w0rm/YeetMeet/issues/3#issuec
  3. You need to have Google Chrome and Chromedriver installed and in your PATH Environment Variable.
  
 **Deployment**
+
+Video Tutorial For this bot-
+https://youtu.be/ImBoC4g7aDE
+
 1. Download and Install Google Chrome and Chromedriver.
  2. `git clone https://github.com/1337w0rm/YeetMeet`
  3. `cd YeetMeet`
@@ -103,4 +107,3 @@ See [How to edit config.py](https://github.com/1337w0rm/YeetMeet/issues/3#issuec
  16. Commit the changes `git commit -am "Your commit message"`
  17. Push Code to Heroku `git push heroku master`
  18. Scale the dynos `heroku ps:scale worker=1`
-
