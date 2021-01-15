@@ -15,11 +15,14 @@ options = webdriver.ChromeOptions()
 # options.add_argument("--headless")
 options.add_argument("--disable-infobars")
 options.add_argument("--window-size=1200,800")
+options.add_argument("--disable-extensions")
+options.add_argument("allow-file-access-from-files"); 
 options.add_argument("user-agent='User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36'")
 options.add_experimental_option("prefs", { \
-    "profile.default_content_setting_values.media_stream_mic": 2,     # 1:allow, 2:block
-    "profile.default_content_setting_values.media_stream_camera": 2,
-     "profile.default_content_setting_values.notifications": 2
+    "profile.default_content_setting_values.media_stream_mic":2,     # 1:allow, 2:block 
+    "profile.default_content_setting_values.media_stream_camera":2,  # 1:allow, 2:block 
+    "profile.default_content_setting_values.geolocation":2,          # 1:allow, 2:block 
+    "profile.default_content_setting_values.notifications":2         # 1:allow, 2:block 
   })
 
 browser = webdriver.Chrome(options=options)
