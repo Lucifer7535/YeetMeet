@@ -108,3 +108,11 @@ Video Tutorial
  16. Commit the changes `git commit -am "Your commit message"`
  17. Push Code to Heroku `git push heroku master`
  18. Scale the dynos `heroku ps:scale worker=1`
+
+#Credits
+I have just explained on how u can deploy this bot.
+
+All the credit goes to the original owner.
+
+Repo link-
+https://github.com/1337w0rm/YeetMeet
