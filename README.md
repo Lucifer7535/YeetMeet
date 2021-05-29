@@ -112,7 +112,9 @@ Video Tutorial
 #Credits
 I have just explained on how u can deploy this bot.
 
-All the credit goes to the original owner.
+All the credit goes to the original owner
+[@Aditya](https://github.com/1337w0rm)
+& Other contributors for development of this bot
 
 Repo link-
 https://github.com/1337w0rm/YeetMeet
