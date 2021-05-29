@@ -109,7 +109,7 @@ Video Tutorial
  17. Push Code to Heroku `git push heroku master`
  18. Scale the dynos `heroku ps:scale worker=1`
 
-#Credits
+# Credits
 I have just explained on how u can deploy this bot.
 
 All the credit goes to the original owner
